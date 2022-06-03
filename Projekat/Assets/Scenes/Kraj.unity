@@ -369,6 +369,7 @@ GameObject:
   - component: {fileID: 447144746}
   - component: {fileID: 447144748}
   - component: {fileID: 447144747}
+  - component: {fileID: 447144749}
   m_Layer: 5
   m_Name: Pozadina
   m_TagString: Untagged
@@ -435,6 +436,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 447144745}
   m_CullTransparentMesh: 0
+--- !u!114 &447144749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447144745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5527dd95e972674e8967494e7692ba8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txtScore: {fileID: 981343737}
 --- !u!1 &651181969
 GameObject:
   m_ObjectHideFlags: 0
@@ -957,7 +971,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1274028937}
-        m_MethodName: QuitApp
+        m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1151,8 +1165,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 45, y: 47}
-  m_SizeDelta: {x: 70, y: 60}
+  m_AnchoredPosition: {x: 38.9, y: 47}
+  m_SizeDelta: {x: 60, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2102915264
 MonoBehaviour:

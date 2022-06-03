@@ -2,8 +2,11 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - AppQuit
+    - Kraj
     - LoadScene
-    - TajmerScript
+    - LogIn
+    - QuizManager
+    - QuizUI
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -47,23 +50,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11368}
+      Script: {instanceID: 11320}
     - Class: 114
-      Script: {instanceID: 11408}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12230}
+      Script: {instanceID: 12184}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12346}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 12420}
     - Class: 114
-      Script: {instanceID: 28010}
+      Script: {instanceID: 12700}
     - Class: 114
-      Script: {instanceID: 32812}
+      Script: {instanceID: 13086}
+    - Class: 114
+      Script: {instanceID: 23020}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -98,25 +103,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11368}
+      Script: {instanceID: 11320}
     - Class: 114
-      Script: {instanceID: 11408}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12230}
+      Script: {instanceID: 12184}
     - Class: 114
-      Script: {instanceID: 12428}
+      Script: {instanceID: 12386}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12420}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 12700}
     - Class: 114
-      Script: {instanceID: 28010}
+      Script: {instanceID: 12746}
     - Class: 114
-      Script: {instanceID: 32812}
+      Script: {instanceID: 13086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -151,23 +156,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11368}
+      Script: {instanceID: 11320}
     - Class: 114
-      Script: {instanceID: 11408}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12230}
+      Script: {instanceID: 12184}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12346}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 12420}
     - Class: 114
-      Script: {instanceID: 28010}
+      Script: {instanceID: 12700}
     - Class: 114
-      Script: {instanceID: 32812}
+      Script: {instanceID: 13086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -202,21 +207,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11368}
+      Script: {instanceID: 11320}
     - Class: 114
-      Script: {instanceID: 11408}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12230}
+      Script: {instanceID: 12184}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12346}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 12700}
     - Class: 114
-      Script: {instanceID: 18630}
+      Script: {instanceID: 13086}
+    - Class: 114
+      Script: {instanceID: 14142}
+    - Class: 114
+      Script: {instanceID: 16316}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -232,6 +241,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
       Script: {instanceID: 0}
     Assets/Scenes/ScoreBoard.unity:
     - Class: 1
@@ -251,23 +262,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11150}
     - Class: 114
-      Script: {instanceID: 11368}
+      Script: {instanceID: 11320}
     - Class: 114
-      Script: {instanceID: 11370}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11408}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11722}
+      Script: {instanceID: 11676}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12020}
+      Script: {instanceID: 11974}
     - Class: 114
-      Script: {instanceID: 12736}
+      Script: {instanceID: 12184}
     - Class: 114
-      Script: {instanceID: 13118}
+      Script: {instanceID: 12346}
+    - Class: 114
+      Script: {instanceID: 12700}
+    - Class: 114
+      Script: {instanceID: 13086}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -527,6 +542,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadScene
+  - hash:
+      serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -543,6 +564,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AppQuit
   - hash:
       serializedVersion: 2
       Hash: 35a9693c388776aaf487636491a20f11
@@ -597,6 +624,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 6c14be1e5bf62dfcab3b87a3523b43db
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LogIn
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -707,22 +740,22 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 17e5f5677f5859f0d947bd25adc1112b
+      Hash: 6a2cc94ca6837bf162eb8fa994131f49
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: TajmerScript
+    className: QuizManager
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: a99313aa9dd4f615e820f4cf826d302a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: LoadScene
+    className: QuizUI
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 50aa148b6d8966a05c735581128bc779
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: AppQuit
+    className: Kraj
   platform: 5
   scenePathNames:
   - Assets/Scenes/Login.unity
