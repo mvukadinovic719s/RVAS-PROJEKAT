@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691564132131",
+    "project_id": "rvas-projekat-quiz",
+    "firebase_url": "https://rvas-projekat-quiz-default-rtdb.europe-west1.firebasedatabase.app",
+    "storage_bucket": "rvas-projekat-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691564132131:android:b1230c29360cf269e9fe96",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Projekat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691564132131-qpg4ucqir9i2896ql386r45us5blhau2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWY8346Pnj9sca6vuIcWBiXOKuZGMGNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691564132131-qpg4ucqir9i2896ql386r45us5blhau2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

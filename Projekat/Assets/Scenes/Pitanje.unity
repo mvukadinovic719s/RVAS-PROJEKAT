@@ -658,8 +658,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.1, y: 2}
-  m_SizeDelta: {x: 451.4, y: 40}
+  m_AnchoredPosition: {x: 1.48, y: 0.43}
+  m_SizeDelta: {x: 483.05, y: 62.64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &254079064
 MonoBehaviour:
@@ -681,7 +681,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 18
+    m_FontSize: 16
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -1877,51 +1877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   quizUI: {fileID: 24543728}
-  questions:
-  - questionInfo: ".U programskom jeziku C# umesto getter/setter metoda u klasama
-      se defini\u0161u: "
-    options:
-    - 'Svojstva '
-    - 'Delegati '
-    - 'Polja '
-    - 'Indekseri '
-    correctAns: 'Svojstva '
-  - questionInfo: "Potrebno je u nekoj klasi definisati polje season u kome bi se
-      \u010Duvalo jedno od \u010Detiri godi\u0161nja doba. Najbolje je da to polje
-      bude tipa: "
-    options:
-    - 'string '
-    - int
-    - 'nabrajanje Season koje bi imalo imenovane konstante Spring, Summer, Autumn
-      i Winter '
-    - 'char '
-    correctAns: 'nabrajanje Season koje bi imalo imenovane konstante Spring, Summer,
-      Autumn i Winter '
-  - questionInfo: "Potrebno je da polje x neke klase mo\u017Ee da ima celobrojnu
-      vrednost ili null. Ovo polje treba definisati na slede\u0107i na\u010Din: "
-    options:
-    - 'private int x '
-    - 'private int? x; '
-    - 'private nullable int x; '
-    - "Ovako ne\u0161to nije mogu\u0107e "
-    correctAns: private int? x;
-  - questionInfo: "Koji od slede\u0107ih iskaza u vezi sa konverzijom je ta\u010Dan? "
-    options:
-    - "Mogu\u0107e je definisati i implicitnu i eksplicitnu konverziju "
-    - "Mogu\u0107e je definisati samo implicitnu konverziju "
-    - "Mogu\u0107e je definisati samo eksplicitnu konverziju "
-    - "Nije mogu\u0107e definisati konverziju u C#-u "
-    correctAns: "Mogu\u0107e je definisati i implicitnu i eksplicitnu konverziju"
-  - questionInfo: 'U programskom jeziku C#: '
-    options:
-    - 'Klase i strukture pripadaju kategoriji vrednosnih tipova '
-    - 'Klase i strukture pripadaju kategoriji referencijalnih tipova '
-    - 'Klase pripadaju kategoriji referencijalnih, a strukture kategoriji vrednosnih
-      tipova '
-    - 'Klase pripadaju kategoriji vrednosnih tipova, a strukture kategoriji referencijalnih
-      tipova '
-    correctAns: 'Klase pripadaju kategoriji referencijalnih, a strukture kategoriji
-      vrednosnih tipova '
+  quizData: {fileID: 11400000, guid: a50408f4eac299b4ea01096dd20f9127, type: 2}
 --- !u!4 &1620183694
 Transform:
   m_ObjectHideFlags: 0

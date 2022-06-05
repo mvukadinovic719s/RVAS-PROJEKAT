@@ -12,7 +12,7 @@ public class LogIn : MonoBehaviour
 
     void Start()
     {
-        DontDestroyOnLoad(this.gameObject);
+
     }
 
     public void LogInUsername(GameObject txtUsername)

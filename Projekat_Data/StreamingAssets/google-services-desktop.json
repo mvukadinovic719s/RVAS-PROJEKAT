@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328486398502",
+    "project_id": "rvas-projekat",
+    "storage_bucket": "rvas-projekat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328486398502:android:9bc718891e81c4c7cc14e7",
+        "android_client_info": {
+          "package_name": "com.rvas_projekat.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328486398502-vb5gjgrt5nnnmbrj7d85soekonv8ecam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEljo0YjKZsmbAhcnUyXDru4uAdcFjwhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328486398502-vb5gjgrt5nnnmbrj7d85soekonv8ecam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
