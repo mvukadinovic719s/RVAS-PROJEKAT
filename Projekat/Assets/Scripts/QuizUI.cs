@@ -13,7 +13,7 @@ public class QuizUI : MonoBehaviour
     [SerializeField] private Text txtScore;
     [SerializeField] private Text txtTajmer;
     float currentTime = 0;
-    float startingTime = 25;
+    float startingTime = 45;
 
     private Question question;
     private bool answered;

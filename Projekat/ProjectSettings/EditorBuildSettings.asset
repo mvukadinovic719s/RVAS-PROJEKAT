@@ -17,7 +17,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Kraj.unity
     guid: d5961fb2858aff14b99681af86287223
-  - enabled: 1
-    path: Assets/Scenes/ScoreBoard.unity
-    guid: d7bcd7cc59e16f94bb2d9b09c05a02d0
   m_configObjects: {}

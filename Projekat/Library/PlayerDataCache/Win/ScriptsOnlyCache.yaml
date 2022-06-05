@@ -29,9 +29,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.InputField
-    - UnityEngine.UI.Mask
-    - UnityEngine.UI.ScrollRect
-    - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/Kraj.unity:
@@ -52,25 +49,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11224}
+      Script: {instanceID: 11352}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11524}
     - Class: 114
-      Script: {instanceID: 11448}
+      Script: {instanceID: 11564}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11982}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12392}
     - Class: 114
-      Script: {instanceID: 12468}
+      Script: {instanceID: 12558}
     - Class: 114
-      Script: {instanceID: 12496}
+      Script: {instanceID: 12582}
     - Class: 114
-      Script: {instanceID: 12552}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12914}
     - Class: 114
-      Script: {instanceID: 13248}
+      Script: {instanceID: 13306}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -105,27 +102,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11224}
+      Script: {instanceID: 11352}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11524}
     - Class: 114
-      Script: {instanceID: 11448}
+      Script: {instanceID: 11564}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11982}
     - Class: 114
-      Script: {instanceID: 12078}
+      Script: {instanceID: 12180}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12392}
     - Class: 114
-      Script: {instanceID: 12512}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 12552}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12914}
     - Class: 114
-      Script: {instanceID: 12888}
+      Script: {instanceID: 12960}
     - Class: 114
-      Script: {instanceID: 13248}
+      Script: {instanceID: 13306}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -160,23 +157,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11224}
+      Script: {instanceID: 11352}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11524}
     - Class: 114
-      Script: {instanceID: 11448}
+      Script: {instanceID: 11564}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11982}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12392}
     - Class: 114
-      Script: {instanceID: 12468}
+      Script: {instanceID: 12558}
     - Class: 114
-      Script: {instanceID: 12552}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12914}
     - Class: 114
-      Script: {instanceID: 13248}
+      Script: {instanceID: 13306}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -211,27 +208,27 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11224}
+      Script: {instanceID: 11352}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11524}
     - Class: 114
-      Script: {instanceID: 11448}
+      Script: {instanceID: 11564}
     - Class: 114
-      Script: {instanceID: 11484}
+      Script: {instanceID: 11600}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11982}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12392}
     - Class: 114
-      Script: {instanceID: 12468}
+      Script: {instanceID: 12558}
     - Class: 114
-      Script: {instanceID: 12672}
+      Script: {instanceID: 12750}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12914}
     - Class: 114
-      Script: {instanceID: 13184}
+      Script: {instanceID: 13242}
     - Class: 114
-      Script: {instanceID: 13248}
+      Script: {instanceID: 13306}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -249,61 +246,6 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 258
-      Script: {instanceID: 0}
-    Assets/Scenes/ScoreBoard.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 11224}
-    - Class: 114
-      Script: {instanceID: 11406}
-    - Class: 114
-      Script: {instanceID: 11408}
-    - Class: 114
-      Script: {instanceID: 11448}
-    - Class: 114
-      Script: {instanceID: 11778}
-    - Class: 114
-      Script: {instanceID: 11878}
-    - Class: 114
-      Script: {instanceID: 12080}
-    - Class: 114
-      Script: {instanceID: 12294}
-    - Class: 114
-      Script: {instanceID: 12468}
-    - Class: 114
-      Script: {instanceID: 12840}
-    - Class: 114
-      Script: {instanceID: 13248}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 128
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
-    - Class: 196
-      Script: {instanceID: 0}
-    - Class: 213
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -786,5 +728,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/Pitanje.unity
   - Assets/Scenes/Kraj.unity
-  - Assets/Scenes/ScoreBoard.unity
-  playerPath: C:/Users/Adam/Desktop/Faks/S6/Projekat.exe
+  playerPath: C:/Users/Adam/Desktop/Faks/S6/Razvoj veb aplikacija i servisa/RVAS-PROJEKAT/Projekat.exe
